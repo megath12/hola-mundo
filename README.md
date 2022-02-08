@@ -1,5 +1,5 @@
 # hola-mundo
-mi primer repositorio de prueba
+mi primer repositorio
 
 
 CIG
